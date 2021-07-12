@@ -7,7 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gitest';
-  counter(i: number) {
-    return new Array(i);
-  }
 }
